@@ -12,7 +12,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curs
 ## EDAD: 21 años
 ## PASATIEMPO: Ver tiktok, catadora de comida nikkei, ex jugadora profesional de ajedrez
 ## ROL: Secretaria y tesoreria de logística 
-![Imagen Matias](https://cdn.phototourl.com/free/2026-03-25-d9bfd4be-28fb-4d4c-a2d1-668ba8f36052.jpg)
+![Imagen Matias](https://cdn.phototourl.com/free/2026-03-25-5cf266f0-f6d4-4f96-97d0-ef29d81590b3.jpg)
 ## EDAD: 20 años
 ## PASATIEMPO: ex canterano de Universitario, actual jugador de Chacla FC 4ta división, Idolo: Lolo Fernandez
 ## ROL: Seguridad del equipo (guardaespaldas)
