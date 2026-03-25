@@ -6,3 +6,4 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curs
 ## **Integrantes**
 ![Imagen Mark](https://cdn.phototourl.com/free/2026-03-25-d9b30b0f-2f7b-4430-94c6-4e9c445a9098.jpg)
 ![Imagen Molly](https://cdn.phototourl.com/free/2026-03-25-17204299-a915-4e65-9b49-0bf536e1d45e.jpg)
+![Imagen Matias](https://cdn.phototourl.com/free/2026-03-25-17e97d02-6dfc-4840-b0f3-af9938b7e0e7.jpg)
