@@ -4,7 +4,7 @@
 ![](https://github.com/matisolari/FUNBIO-EQUIPO4/blob/main/Documentacion/81bfcf43-2324-4ce8-8c6c-e3836e89e2ab.jpeg)
 Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curso Fundamentos de Biodiseño. Hemos creado este repositorio para poder compartir el proyecto desarrollado a lo largo del curso, con implementación de programación, electrónica, prototipado en 3D, entre otras técnicas de manufactura. En este proyecto, buscamos mejorar la calidad de vida de las personas y lograr un avance en nuestro país.
 ## **Integrantes**
-![Imagen Mark](https://cdn.phototourl.com/free/2026-03-25-1f938fef-7d91-41e2-a1a4-1e71d2c31554.jpg)
+![Imagen Mark](https://cdn.phototourl.com/free/2026-03-25-f44c1466-f490-460d-8ae9-945445d8edae.jpg)
 ## EDAD: 19 años 
 ## PASATIEMPO: Jugador de LoL semiprofesional, jugador de voley retirado, comer pizza, canterano de Cienciano 
 ## ROL: Revisión de la coordinación general, programación y modelado 3D
