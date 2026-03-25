@@ -5,3 +5,4 @@
 Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curso Fundamentos de Biodiseño. Hemos creado este repositorio para poder compartir el proyecto desarrollado a lo largo del curso, con implementación de programación, electrónica, prototipado en 3D, entre otras técnicas de manufactura. En este proyecto, buscamos mejorar la calidad de vida de las personas y lograr un avance en nuestro país.
 ## **Integrantes**
 ![Imagen Mark](https://cdn.phototourl.com/free/2026-03-25-d9b30b0f-2f7b-4430-94c6-4e9c445a9098.jpg)
+![Imagen Molly](https://cdn.phototourl.com/free/2026-03-25-17204299-a915-4e65-9b49-0bf536e1d45e.jpg)
