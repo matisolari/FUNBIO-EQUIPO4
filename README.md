@@ -11,19 +11,19 @@ PASATIEMPO: Jugador de LoL semiprofesional, jugador de voley retirado, comer piz
 ROL: Revisión de la coordinación general, programación y modelado 3D
 ##
 ![Imagen Matias](https://cdn.phototourl.com/free/2026-03-25-5cf266f0-f6d4-4f96-97d0-ef29d81590b3.jpg)  
-Matias Solari   
+## Matias Solari   
 EDAD: 20 años  
 PASATIEMPO: ex canterano de Universitario, actual jugador de Chacla FC 4ta división, Idolo: Lolo Fernandez  
 ROL: Seguridad del equipo (guardaespaldas)
 ##
 ![Imagen Natalia](https://cdn.phototourl.com/free/2026-03-25-07ce6282-afc6-4d3d-80ec-20a6dc9dec74.jpg)  
-Natalia Varona   
+## Natalia Varona   
 EDAD: 21 años  
 PASATIEMPO: Programación creativa, investigar sobre nuevas tecnologías biomédicas.  
 ROL: Coordinación general y gestión del proyecto
 ##
 ![Imagen Molly](https://cdn.phototourl.com/free/2026-03-25-c9ba2041-1576-43d8-ab23-3ed093037456.jpg)  
-Molly Vera  
+## Molly Vera  
 EDAD: 21 años  
 PASATIEMPO: Ver tiktok, catadora de comida nikkei, ex jugadora profesional de ajedrez  
 ROL: Secretaria y tesoreria de logística 
