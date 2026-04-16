@@ -9,11 +9,6 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curs
 ## EDAD: 19 años 
 ## PASATIEMPO: Jugador de LoL semiprofesional, jugador de voley retirado, comer pizza, canterano de Cienciano 
 ## ROL: Revisión de la coordinación general, programación y modelado 3D
-![Imagen Molly](https://cdn.phototourl.com/free/2026-03-25-c9ba2041-1576-43d8-ab23-3ed093037456.jpg)
-## NOMBRE: Molly Vera
-## EDAD: 21 años
-## PASATIEMPO: Ver tiktok, catadora de comida nikkei, ex jugadora profesional de ajedrez
-## ROL: Secretaria y tesoreria de logística 
 ![Imagen Matias](https://cdn.phototourl.com/free/2026-03-25-5cf266f0-f6d4-4f96-97d0-ef29d81590b3.jpg)
 ## NOMBRE: Matias Solari 
 ## EDAD: 20 años
@@ -24,3 +19,8 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH del horario B401, del curs
 ## EDAD: 21 años
 ## PASATIEMPO: Programación creativa, investigar sobre nuevas tecnologías biomédicas.
 ## ROL: Coordinación general y gestión del proyecto
+![Imagen Molly](https://cdn.phototourl.com/free/2026-03-25-c9ba2041-1576-43d8-ab23-3ed093037456.jpg)
+## NOMBRE: Molly Vera
+## EDAD: 21 años
+## PASATIEMPO: Ver tiktok, catadora de comida nikkei, ex jugadora profesional de ajedrez
+## ROL: Secretaria y tesoreria de logística 
